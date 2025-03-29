@@ -1,4 +1,4 @@
-#Thank you for some of my friends that helped me to learn python-nmap.
+#Thank you for my friend that helped me to learn python-nmap.
 
 import nmap
 import sys
